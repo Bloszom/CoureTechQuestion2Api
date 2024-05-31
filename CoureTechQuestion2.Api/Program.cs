@@ -4,11 +4,7 @@ using CoureTechQuestion2.Data.IRepository;
 using CoureTechQuestion2.Infrastructure.Data;
 using CoureTechQuestion2.Infrastructure.Repository;
 using Microsoft.EntityFrameworkCore;
-/*using PhoneNumbers.Application.IService;
-using PhoneNumbers.Application.Service;
-using PhoneNumbers.Core.IRepository;
-using PhoneNumbers.Infrastructure.Data;
-using PhoneNumbers.Infrastructure.Repository;*/
+
 
 var builder = WebApplication.CreateBuilder(args);
 
