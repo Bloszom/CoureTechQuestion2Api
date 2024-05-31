@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CoureTechQuestion2.Api.props" />
+</Project>

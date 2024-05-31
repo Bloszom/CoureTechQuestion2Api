@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\obj\Debug\net8.0\CoureTechQuestion2.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\obj\Debug\net8.0\CoureTechQuestion2.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\obj\Debug\net8.0\CoureTechQuestion2.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\obj\Debug\net8.0\CoureTechQuestion2.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\obj\Debug\net8.0\CoureTechQuestion2.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\bin\Debug\net8.0\CoureTechQuestion2.Infrastructure.deps.json
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\bin\Debug\net8.0\CoureTechQuestion2.Infrastructure.dll
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\bin\Debug\net8.0\CoureTechQuestion2.Infrastructure.pdb
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\bin\Debug\net8.0\CoureTechQuestion2.Data.dll
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\bin\Debug\net8.0\CoureTechQuestion2.Data.pdb
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\obj\Debug\net8.0\CoureTec.304AFDC5.Up2Date
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\obj\Debug\net8.0\CoureTechQuestion2.Infrastructure.dll
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\obj\Debug\net8.0\refint\CoureTechQuestion2.Infrastructure.dll
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\obj\Debug\net8.0\CoureTechQuestion2.Infrastructure.pdb
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Infrastructure\obj\Debug\net8.0\ref\CoureTechQuestion2.Infrastructure.dll

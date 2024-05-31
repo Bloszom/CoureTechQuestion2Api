@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\bin\Debug\net8.0\CoureTechQuestion2.Core.deps.json
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\bin\Debug\net8.0\CoureTechQuestion2.Core.dll
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\bin\Debug\net8.0\CoureTechQuestion2.Core.pdb
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\bin\Debug\net8.0\CoureTechQuestion2.Data.dll
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\bin\Debug\net8.0\CoureTechQuestion2.Data.pdb
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\obj\Debug\net8.0\CoureTechQuestion2.Core.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\obj\Debug\net8.0\CoureTechQuestion2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\obj\Debug\net8.0\CoureTechQuestion2.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\obj\Debug\net8.0\CoureTechQuestion2.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\obj\Debug\net8.0\CoureTechQuestion2.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\obj\Debug\net8.0\CoureTec.C6D59FDB.Up2Date
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\obj\Debug\net8.0\CoureTechQuestion2.Core.dll
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\obj\Debug\net8.0\refint\CoureTechQuestion2.Core.dll
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\obj\Debug\net8.0\CoureTechQuestion2.Core.pdb
+C:\Users\HP\Desktop\Coure tech\CoureTechQuestion2\CoureTechQuestion2.Core\obj\Debug\net8.0\ref\CoureTechQuestion2.Core.dll

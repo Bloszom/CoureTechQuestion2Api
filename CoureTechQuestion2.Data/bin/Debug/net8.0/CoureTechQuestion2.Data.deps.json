@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CoureTechQuestion2.Data/1.0.0": {
+        "runtime": {
+          "CoureTechQuestion2.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoureTechQuestion2.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
